@@ -1,6 +1,6 @@
 # hello-world
 
-<b>Note this..</b>
+<h1>Note this..</h1>
 
 Note, that i am initially not very capable in writing code, but i will learn!
 
